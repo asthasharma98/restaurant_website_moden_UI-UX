@@ -4,7 +4,8 @@
 Fully Responsive Restaurant Website with Modern UI/UX in React JS.
 
 To view the Deployed Website, click on the link given below : 
-***gericht fine restaurant*** : *[https://gericht-fine-restaurant.netlify.app/](https://gericht-fine-restaurant.netlify.app/)*
+
+- ***gericht fine restaurant*** : *[https://gericht-fine-restaurant.netlify.app/](https://gericht-fine-restaurant.netlify.app/)*
 
 **Demo**
 
