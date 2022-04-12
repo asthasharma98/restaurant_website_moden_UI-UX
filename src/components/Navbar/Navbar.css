@@ -117,7 +117,7 @@
     display: none;
   }
 
-  .app_navbar-smallscreen {
+  .app__navbar-smallscreen {
     display: flex;
   }
 }
