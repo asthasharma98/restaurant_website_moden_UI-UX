@@ -1,6 +1,10 @@
 
 # Restaurant Website - Landing Page
 
+  ![https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)	
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 Fully Responsive Restaurant Website with Modern UI/UX in React JS.
 
 To view the Deployed Website, click on the link given below : 
